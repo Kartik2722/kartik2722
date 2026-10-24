@@ -1,115 +1,119 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Kartik%20Grover&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Kartik%20Grover&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%" />
 
-# Hi there, I'm Kartik 👋
+<a href="https://github.com/Kartik2722">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Building+modern+web+applications;MERN+Stack+Enthusiast;B.Tech+CSE+Student;Open+to+internships+%26+opportunities" alt="Typing SVG" />
+</a>
 
-### 💻 Full Stack Developer | MERN Stack Enthusiast
+<br/>
 
-🎓 B.Tech Computer Science Student  
-🚀 Building modern, responsive and user-friendly web applications  
-🌱 Learning, building and improving every day  
-🤝 Open to internships and full-stack development opportunities
+<img src="https://komarev.com/ghpvc/?username=Kartik2722&label=Profile%20Views&color=4F46E5&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Kartik2722?style=for-the-badge&logo=github&color=06B6D4" />
 
-<p>
-  <a href="https://github.com/Kartik2722">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kartikgrover31">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://linkedin.com/in/kartikgrover31">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Kartik2722">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👋 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering.
-- 💻 Interested in full-stack web development using the MERN stack.
-- ⚡ Experienced in building frontend interfaces and REST APIs.
-- 🔐 Exploring authentication, authorization and real-time features.
-- 🎯 Focused on building practical projects and improving problem-solving skills.
+```text
+🎓 B.Tech Computer Science student
+💻 Full-stack developer working with the MERN stack
+⚡ Building frontend interfaces and REST APIs
+🔐 Exploring authentication, authorization and real-time features
+🎯 Focused on practical projects and problem-solving
+🤝 Open to internships and full-stack opportunities
+```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui&perline=7" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui&perline=7" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=7" /> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman&perline=7" /> |
 
-### ⚙️ Backend Development
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=7" />
-</p>
-
-### 🔧 Tools & Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman&perline=7" />
-</p>
-
-**Other skills:** REST APIs, responsive web design, authentication, authorization, React Context API and CRUD operations.
+**Also:** REST APIs · Responsive Design · Authentication & Authorization · React Context API · CRUD
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🐝 HiveUp — Social Media Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A social media platform built using the MERN stack, featuring user authentication, posts, comments and real-time notifications.
+### 🐝 HiveUp
+**Social Media Platform**
 
-- ⚛️ React.js and Tailwind CSS
-- 🛠️ Node.js, Express.js and MongoDB
-- 🔐 Authentication and authorization
-- 💬 Post creation, editing, deletion and comments
+A MERN-stack social platform with authentication, posts, comments and real-time notifications.
+
+- ⚛️ React.js + Tailwind CSS
+- 🛠️ Node.js, Express.js, MongoDB
+- 🔐 Authentication & authorization
+- 💬 Create, edit, delete posts and comments
 - 🔔 Real-time like and comment notifications
 
-<p>
-  <a href="https://hiveup31.netlify.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20HiveUp-4F46E5?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Kartik2722">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<a href="https://hiveup31.netlify.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="https://github.com/Kartik2722/REPO_NAME">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" />
+</a>
 
-### 2. 📚 E-Learning Web Application
+</td>
+<td width="50%" valign="top">
 
-A responsive online learning platform with course browsing and Firebase authentication.
+### 📚 E-Learning App
+**Online Learning Platform**
 
-- ⚛️ React.js and Tailwind CSS
+A responsive learning platform with course browsing and Firebase authentication.
+
+- ⚛️ React.js + Tailwind CSS
 - 🔥 Firebase Authentication
-- 🌐 Node.js and Express.js REST API
-- 📱 Responsive user interface
-- 🚀 Deployed frontend and backend
+- 🌐 Node.js + Express.js REST API
+- 📱 Fully responsive UI
+- 🚀 Frontend and backend deployed
 
-<p>
-  <a href="https://e-learning3105.netlify.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-0891B2?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Kartik2722">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<a href="https://e-learning3105.netlify.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-0891B2?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="https://github.com/Kartik2722/REPO_NAME">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik2722&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kartik2722&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik2722&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik2722&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=Kartik2722&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=Kartik2722&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik2722&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -117,27 +121,29 @@ A responsive online learning platform with course browsing and Firebase authenti
 
 ## 🎯 Current Goals
 
-- 🚀 Build production-ready full-stack applications.
-- 🧠 Strengthen data structures and problem-solving skills.
-- 🌐 Explore AI integration in web applications.
-- 💼 Grow as a full-stack developer.
+- 🚀 Build production-ready full-stack applications
+- 🧠 Strengthen data structures and problem-solving
+- 🌐 Explore AI integration in web apps
+- 💼 Grow as a full-stack developer
 
 ---
 
-## 🤝 Let's Connect!
-
 <div align="center">
 
-I'm always interested in learning, collaborating and building something useful.
+### 🤝 Let's Connect
 
-<a href="https://github.com/Kartik2722">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
-</a>
+*Always up for learning, collaborating and building something useful.*
+
 <a href="https://linkedin.com/in/kartikgrover31">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Kartik2722">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-### 💙 Thanks for visiting my profile!
+<br/><br/>
+
+💙 **Thanks for visiting my profile!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=100&section=footer" width="100%" />
 
