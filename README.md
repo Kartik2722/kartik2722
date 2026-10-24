@@ -104,20 +104,7 @@ A responsive learning platform with course browsing and Firebase authentication.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik2722&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik2722&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=Kartik2722&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik2722&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
 
 ## 🎯 Current Goals
 
